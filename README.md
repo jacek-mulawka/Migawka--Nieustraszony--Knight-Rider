@@ -30,7 +30,7 @@ Według dokumentacji jeden segment taśmy pobiera maksymalnie 5V 60mA gdy wszyst
 Arduino Nano Every na pinie +5V dostarcza moc 950 mA dla dołączanych urządzeń. W układzie znajduje się 15 LED x 60 mA = 900 mA, przy czym używam tylko koloru czerwonego i tylko na początku zapalam wszystkie diody więc nawet podczas maksymalnego obciążenia układu powinien zostać spory zapas mocy:
 * 1 RGB LED = 3 x LED;
 * 60 mA (1 RGB LED) = 3 x 20 mA (3 x 1 LED);
-* 15 x 20 mA = 300 mA.
+* 15 x 20 mA = __300 mA__.
 
 <img src="https://github.com/jacek-mulawka/Migawka--Nieustraszony--Knight-Rider/blob/main/Gallery/Arduino%20Nano%20Every%20power%20tree.gif">
 
