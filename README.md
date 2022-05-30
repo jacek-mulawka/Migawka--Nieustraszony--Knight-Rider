@@ -92,3 +92,16 @@ Such vehicle lighting must not be used on public roads.
 [(I)](https://www.adafruit.com/product/1461?length=1) Maximum 5V @ 60mA draw per 0.65" strip segment (all LEDs on full brightness.
 
 [(II)](https://store.arduino.cc/products/arduino-nano-every) Vin: This pin can be used to power the board with a DC voltage source. If the power is fed through this pin, the USB power source is disconnected. This pin is an INPUT. Respect the voltage limits of 7-21V to assure the proper functionality of the board.
+
+
+Powered by
+
+[Adafruit NeoPixel Library](https://github.com/adafruit/Adafruit_NeoPixel),
+
+[Arduino](https://www.arduino.cc/),
+
+[Delphi](https://www.embarcadero.com/products/delphi).
+
+
+## Tag
+LED Knight Rider
