@@ -1,0 +1,10 @@
+Migawka  Nieustraszony  Knight Rider
+wersja 2022.04.12.
+
+MIT License
+
+Copyright (c) 2022 Jacek Mulawka
+
+j.mulawka@interia.pl
+
+https://github.com/jacek-mulawka
