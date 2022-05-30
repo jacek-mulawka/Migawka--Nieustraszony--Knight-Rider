@@ -12,8 +12,8 @@ jest również projekt skonstruowania fizycznej migawki w oparciu o Arduino i cy
 
 
 Wybrałem:
-* [Arduino Nano Every](https://store.arduino.cc/products/arduino-nano-every) ze względu na mały rozmiar
-* taśmę diod [Adafruit NeoPixel Digital RGB LED Strip - Black 60 LED – BLACK](https://www.adafruit.com/product/1461?length=1)
+* [Arduino Nano Every](https://store.arduino.cc/products/arduino-nano-every) ze względu na mały rozmiar;
+* taśmę diod [Adafruit NeoPixel Digital RGB LED Strip - Black 60 LED – BLACK](https://www.adafruit.com/product/1461?length=1) (została przycięta do 15 diod).
 
 Dodatkowo potrzeba:
 * 1 kondensator (500 - 1`000 µF na 6.3V lub więcej);
@@ -60,8 +60,8 @@ Apart from a few variants of purely software visualizations
 there is also a project to construct a physical shutter based on an Arduino and a digital LED strip.
 
 I chose:
-* [Arduino Nano Every](https://store.arduino.cc/products/arduino-nano-every) due to its small size
-* LED strip [Adafruit NeoPixel Digital RGB LED Strip - Black 60 LED – BLACK](https://www.adafruit.com/product/1461?length=1)
+* [Arduino Nano Every](https://store.arduino.cc/products/arduino-nano-every) due to its small size;
+* LED strip [Adafruit NeoPixel Digital RGB LED Strip - Black 60 LED – BLACK](https://www.adafruit.com/product/1461?length=1) (it has been trimmed to 15 LEDs).
 
 Additionally, you need:
 * 1 capacitor (500 - 1`000 µF at 6.3V or more);
